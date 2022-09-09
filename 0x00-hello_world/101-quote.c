@@ -1,4 +1,4 @@
-#include <sdtio>
+#include <stdio.h>
 /**
  * main - printing and that piece of art is useful Dora Korpar
  *
