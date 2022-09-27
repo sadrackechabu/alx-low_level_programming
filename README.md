@@ -1,1 +1,1 @@
-M first program in C
+C debugging
